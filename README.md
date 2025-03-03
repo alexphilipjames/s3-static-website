@@ -4,6 +4,7 @@
 ## Prompt for Creating a Static HTML Website for Alex Philip:
 
 ```
+Prompt for Creating a Static HTML Website for Alex Philip:
 "Website Description:
 Target User: Alex Philip.
 Content: Display motivational messages and quotes.
@@ -35,6 +36,7 @@ Images/Graphics: Use high-quality background images (abstract or nature-based, o
 Extra Details:
 Ensure that the website’s design feels personalized to Alex Philip, with references or small mentions of their name throughout (e.g., "Welcome to your motivational journey, Alex!").
 The website should inspire positivity and growth, with text encouraging users to keep moving forward and take the next step in their personal journey.
+Create respective files
 ```
 ## Prerequisites
 
