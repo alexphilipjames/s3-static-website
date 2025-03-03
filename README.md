@@ -94,27 +94,8 @@ Create respective files
        }
      ]
    }
+   
+### Additional Resources
 
-Replace <YOUR-BUCKET-NAME> with your actual S3 bucket name.
-
-Save the Policy.
-Step 5: Access Your Website
-After enabling static hosting, you'll find the Endpoint URL in the Static website hosting section of your bucket's properties.
-Open the URL in your browser to view your live website!
-Optional Steps
-Step 6: Configure a Custom Domain (Optional)
-To use a custom domain (e.g., alexphilip.com), follow these steps:
-Set up a Route 53 hosted zone for your domain.
-Create a CNAME or A Record pointing to your S3 website endpoint.
-Update your domain registrar’s DNS settings to use Route 53.
-Step 7: Enable HTTPS (Optional)
-Use AWS CloudFront:
-Create a CloudFront distribution to serve your website over HTTPS.
-Attach an SSL certificate using AWS Certificate Manager (ACM).
-Conclusion
-Your static website is now successfully hosted on AWS S3! It's fast, scalable, and cost-effective, ensuring a great experience for your users worldwide.
-
-Additional Resources
-AWS S3 Documentation
-AWS CloudFront Documentation
-AWS Route 53 Documentation
+**AWS S3 Documentation**
+- https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html
